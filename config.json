@@ -1,6 +1,14 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
-    "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
+    "title":"躬行",
+    "subTitle":"记录生活，分享技术",
+    "avatarUrl":"https://i.pinimg.com/736x/76/03/35/760335c8444835a53c293c7a30a062a0.jpg",
+    "email":"ridgezhao@foxmail.com",
+    "startSite":"12/20/2024",
+    "filingNum":"京ICP备2023011508号",
+    "onePageListNum":15,
+    "UTC":8,
+    "needComment":0,
+    "bottomText":"转载请注明出处",
     "GMEEK_VERSION":"last"
+    
 }
